@@ -42,6 +42,7 @@ public class AdminController implements Initializable {
 
 	@FXML
 	private void searchAction(ActionEvent event) {
+		loadWindow("/View/SearchView.fxml", "Search", event);
 	}
 
 	@FXML

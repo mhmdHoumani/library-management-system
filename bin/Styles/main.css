@@ -1,6 +1,6 @@
 #addMemberBtn:hover, #addBookBtn:hover, #viewMembersBtn:hover,
-#viewBooksBtn:hover,
-#settingsBtn:hover {
+#viewBooksBtn:hover, #settingsBtn:hover, #addEmpBtn:hover,
+#searchBtn:hover, #logoutBtn:hover {
 	-fx-background-color: rgba(121.0, 134.0, 203.0, 0.8);
 }
 
